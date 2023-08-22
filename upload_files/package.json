@@ -1,0 +1,22 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Avinash",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "Buffer": "^0.0.0",
+    "fetch": "^1.1.0",
+    "formidable": "^3.5.0",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.8.0",
+    "multer-gridfs-storage": "^5.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}
