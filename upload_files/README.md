@@ -19,4 +19,8 @@ WE first were trying to use fs so we had to use formidable and all but its of no
     "multer-gridfs-storage": "^5.0.2",
     "node-fetch": "^3.3.2"
   }
+
+
+
+  
 ![](https://github.com/w1dow1306/Uploadimagestoserver/blob/main/upload_files/working.png)
